@@ -9,10 +9,10 @@ This project is part of a data analysis task to examine sales data from a pizza 
 - Top 5 bestselling pizzas: Classic Deluxe, BBQ Chicken, Hawaiian, Pepperoni, Thai Chicken
 - Sales fluctuate throughout the year, peaking in July
 
-## 📁 Files Included
+## 📁 File Included
 
 - `Pizza sales analysis task 3.ipynb` – Main analysis notebook
-- `/pizza_sales_data/` – Contains the four CSV datasets used
+
 
 ## 🛠️ Tools Used
 
